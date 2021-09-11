@@ -1,0 +1,39 @@
+.nav-link{
+    color: white;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    opacity: 0.8;
+}
+.my-nav{
+    position: sticky;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 1000;
+}
+.nav-2{
+    background-color: purple;
+}
+*{
+    padding: 0 !important;
+    margin: 5 !important;
+    box-sizing: border-box !important;
+}
+.my-color{
+    background-color: rgba(22,51,109,255);
+}
+.mission{
+    text-align: justify;
+}
+.objective{
+    text-align: justify;
+}
+tr td{
+    padding-top: 10px !important;
+    text-align: justify;
+}
+tr td p{
+    padding-top: 10px !important;
+}
